@@ -1,0 +1,22 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx38bc882dc3618e04",
+# 公众号appSecret
+"app_secret": "8bb3194d1633daf2651aa730f9b5c11e",
+# 模板消息id
+"template_id": "OQAiVdLxM1y8S0Qc8oCIznLTiwR_OseaxCsaypnbBKQ",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ovG_t6go4yPNuEO1SGdMlgaUKKSM","ovG_t6tOyO6wEHgHPwtUdFL3A6G8"],
+
+
+# 和风天气apikey
+"weather_key": "622262f0b5c3420798ccc3d0d6fc8e06",
+"region": "长沙",
+# 在一起的日子，格式同上，暂不不支持农历
+"love_date": "2022-11-26",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "希望我们每天都能一起加油，开开心心！快快乐乐",
+# 金句英文
+"note_en": "I hope we are happy every day！"
+}
